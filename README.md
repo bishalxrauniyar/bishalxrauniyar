@@ -5,15 +5,12 @@
   <a href="https://github.com/bishalxrauniyar"><img src="https://img.shields.io/github/followers/bishalxrauniyar?style=social"></a>
 </p>
 
-<p align="center">
-  <img src="https://github.com/bishalxrauniyar/bishalxrauniyar/raw/main/assets/banner.png" alt="Banner" />
-</p>
 
 ## 👨‍💻 About Me
 I'm Bishal Rauniyar, a student passionate about coding and technology. I enjoy exploring new technologies and continuously improving my skills.
 
 ## 🛠️ Skills
-- **Languages:** C, C#, Java, JavaScript, Python, PHP
+- **Languages:** C, C#, Java, JavaScript, PHP
 - **Web Development:** HTML, CSS, React
 - **Frameworks:** React
 - **Databases:** MySQL
