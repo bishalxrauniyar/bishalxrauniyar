@@ -1,60 +1,37 @@
-## Hi there 👋
+# Hi, I'm Bishal Rauniyar 👋
 
-**bishalxrauniyar/bishalxrauniyar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Email](https://img.shields.io/badge/Email-bishal.rauniyar@gmail.com-blue)](mailto:bishal.rauniyar@gmail.com)
+[![GitHub](https://img.shields.io/github/followers/bishalxrauniyar?style=social)](https://github.com/bishalxrauniyar)
 
-Here are some ideas to get you started:
+## 👨‍💻 About Me
+I'm Bishal Rauniyar, a student passionate about coding and technology. I enjoy exploring new technologies and continuously improving my skills.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...## Hi there 👋
+## 🛠️ Skills
+- **Languages:** C, C#, Java, JavaScript, Python, PHP
+- **Web Development:** HTML, CSS, React
+- **Frameworks:** React
+- **Databases:** MySQL
 
-I'm Bishal Rauniiyar, a dedicated Software Engineer and an active student who is currently on the lookout for exciting job opportunities.
+## 🔧 Tools & Technologies
+- **IDEs:** Visual Studio Code, IntelliJ IDEA, Eclipse
+- **Version Control:** Git, GitHub
+- **Others:** Node.js, Express.js, REST APIs
 
-### 🔭 I’m currently working on
-- Building and optimizing various software projects.
-- Developing an attendance management system in PHP.
-- Exploring new technologies and frameworks to stay updated with industry trends.
+## 🌱 Currently Learning
+I'm currently diving deeper into advanced web development and cloud technologies.
 
-### 🌱 I’m currently learning
-- Advanced PHP techniques.
-- Modern JavaScript frameworks like React and Vue.js.
-- Cloud services and deployment strategies.
+## 📫 Contact Me
+- **Email:** [bishal.rauniyar@gmail.com](mailto:bishal.rauniyar@gmail.com)
+- **GitHub:** [bishalxrauniyar](https://github.com/bishalxrauniyar)
 
-### 👯 I’m looking to collaborate on
-- Open source projects.
-- Innovative software solutions.
-- Any project that can help me grow and contribute my skills effectively.
+## 📈 GitHub Stats
+![Bishal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=bishalxrauniyar&show_icons=true&theme=radical)
 
-### 🤔 I’m looking for help with
-- Finding job opportunities in the software development field.
-- Networking with professionals in the tech industry.
+## 📊 Most Used Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bishalxrauniyar&layout=compact&theme=radical)
 
-### 💬 Ask me about
-- PHP development.
-- Web application design and architecture.
-- Any programming-related queries you might have.
+## 🌐 Connect with Me
+- [LinkedIn](https://www.linkedin.com/in/bishalxrauniyar)
+- [Twitter](https://twitter.com/bishalxrauniyar)
 
-### 📫 How to reach me
-- Email: [your.email@example.com](mailto:bishal.rauniyar@gmail.com)
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/yourprofile)
-- GitHub: [Your GitHub Profile](https://github.com/bishalxrauniyar)
-
-### 😄 Pronouns
-- He/Him
-
-### ⚡ Fun fact
-- I love solving puzzles and challenges, and I'm an avid chess player!
-
-### 🛠️ Technologies & Tools
-- **Languages**: Java, Python, C#
-- **Frameworks**: React, Vue, Laravel, CodeIgniter
-- **Databases**: MySQL
-- **Other**: PHP
-
-Feel free to explore my repositories and get in touch if you want to collaborate or just have a chat about tech!
-
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+Feel free to reach out to me for any collaboration or just to say hi! 😊
