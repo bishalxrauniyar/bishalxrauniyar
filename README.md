@@ -12,7 +12,7 @@ I'm Bishal Rauniyar, a passionate software engineer with a keen interest in codi
 ## Skills
 - **Languages:** C, C#, Java, JavaScript, PHP
 - **Web Development:** HTML, CSS, React
-- **Frameworks:** Laravel, CodeIgniter, React
+- **Frameworks:** Laravel, React
 - **Databases:** MySQL
 
 ## Tools & Technologies
