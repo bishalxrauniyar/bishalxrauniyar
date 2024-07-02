@@ -36,9 +36,9 @@ I'm Bishal Rauniiyar, a dedicated Software Engineer and an active student who is
 - Any programming-related queries you might have.
 
 ### 📫 How to reach me
-- Email: [your.email@example.com](mailto:your.email@example.com)
+- Email: [your.email@example.com](mailto:bishal.rauniyar@gmail.com)
 - LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/yourprofile)
-- GitHub: [Your GitHub Profile](https://github.com/yourusername)
+- GitHub: [Your GitHub Profile](https://github.com/bishalxrauniyar)
 
 ### 😄 Pronouns
 - He/Him
