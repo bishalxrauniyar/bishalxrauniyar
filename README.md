@@ -20,13 +20,6 @@ A passionate <b>Software Engineer</b> from Kathmandu, dedicated to building web 
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react&logoColor=61DAFB)
 ![Laravel](https://img.shields.io/badge/-Laravel-05122A?style=flat&logo=laravel&logoColor=FF2D20)
 
-**WordPress Development**  
-![WordPress](https://img.shields.io/badge/-WordPress-05122A?style=flat&logo=wordpress&logoColor=21759B)
-![Theme Development](https://img.shields.io/badge/-Theme%20Development-05122A?style=flat&logo=wordpress&logoColor=FFA000)
-![Plugin Development](https://img.shields.io/badge/-Plugin%20Development-05122A?style=flat&logo=wordpress&logoColor=FFD700)
-![Classic Theme](https://img.shields.io/badge/-Classic%20Theme-05122A?style=flat&logo=wordpress&logoColor=6B4D00)
-![Block Theme](https://img.shields.io/badge/-Block%20Theme-05122A?style=flat&logo=wordpress&logoColor=00A876)
-
 **Tools & Others**  
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js&logoColor=339933)
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git&logoColor=F05032)
