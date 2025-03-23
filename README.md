@@ -49,5 +49,5 @@
   <a href="mailto:bishal.rauniyar@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
   <a href="https://github.com/bishalxrauniyar"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
   <a href="https://linkedin.com/in/bishalxrauniyar"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
-  <a href="https://x.com/BishalXRauniyar"><img src="https://img.icons8.com/bubbles/50/000000/twitter.png" alt="Twitter"/></a>
+  <a href="https://x.com/BishalXRauniyar"><img src="https://img.icons8.com/bubbles/50/000000/x.png" alt="X"/></a>
 </p>
