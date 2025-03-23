@@ -1,6 +1,6 @@
 <h1 align="center">Hi , I'm Bishal Rauniyar <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
- <h2> Backend Developer</h2>
+ <h2 align="center"> Backend Developer</h2>
 <hr/>
 <h4 align="center">I am a passionate backend developer from Nepal. I love working with WordPress, PHP, and JavaScript. I enjoy solving problems, creating custom solutions, and continuously learning new technologies. Currently exploring jQuery and Ajax to enhance my skill set.</h4>
 <br>
