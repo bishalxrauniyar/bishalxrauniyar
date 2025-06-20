@@ -6,8 +6,7 @@
 <br>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=bishalxrauniyar&label=Profile%20Views&color=0e75b6&style=plastic" alt="bishalxrauniyar" /> </p>
 
-## 🔥 Streak Stats
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bishalxrauniyar&theme=algolia" alt="bishalxrauniyar" /></p>
+
 
 ## 🛠️ My Skills
 
