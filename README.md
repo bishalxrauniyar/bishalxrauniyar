@@ -3,7 +3,7 @@
 <h3 align="center">💻 Full-Stack & WordPress Developer | Problem Solver | Lifelong Learner</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=bishalxrauniyar&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+ 
   <img src="https://img.shields.io/badge/From-Nepal-red?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Loves-Coffee-brown?style=for-the-badge" />
 </p>
