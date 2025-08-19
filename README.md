@@ -12,10 +12,7 @@
 
 <div align="center">
   
-[![From Nepal](https://img.shields.io/badge/From-Nepal-red?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTAwIiBoZWlnaHQ9IjEwMCIgdmlld0JveD0iMCAwIDEwMCAxMDAiIGZpbGw9Im5vbmUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+CjxyZWN0IHdpZHRoPSIxMDAiIGhlaWdodD0iMTAwIiBmaWxsPSIjREM1NTVEIi8+Cjx0ZXh0IHg9IjUwIiB5PSI1MCIgZm9udC1mYW1pbHk9IkFyaWFsIiBmb250LXNpemU9IjMwIiBmaWxsPSJ3aGl0ZSIgdGV4dC1hbmNob3I9Im1pZGRsZSIgZHk9Ii4zZW0iPvCfh7Hwn4ew8J+PsPC/j7A=</text>
-</svg>)](https://en.wikipedia.org/wiki/Nepal)
-[![Loves Coffee](https://img.shields.io/badge/Loves-Coffee-brown?style=for-the-badge&logo=coffeescript)](https://en.wikipedia.org/wiki/Coffee)
-[![Open Source](https://img.shields.io/badge/Open%20Source-Love-red?style=for-the-badge&logo=open-source-initiative)](https://opensource.org/)
+[![From Nepal](https://img.shields.io/badge/From-Nepal%20🇳🇵-DC143C?style=for-the-badge)](https://en.wikipedia.org/wiki/Nepal)
 
 </div>
 
