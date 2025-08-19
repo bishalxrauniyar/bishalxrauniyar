@@ -203,13 +203,7 @@ console.log("☕ Powered by coffee and passion for coding!");
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
-## 📈 Contribution Graph
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/bishalxrauniyar/bishalxrauniyar/output/snake.svg" alt="Snake animation" />
-</div>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
 ## 🤝 Let's Connect
 
