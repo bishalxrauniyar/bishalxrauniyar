@@ -1,7 +1,7 @@
 # Hi there, I'm Bishal Rauniyar! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Full-Stack+%26+WordPress+Developer;Problem+Solver+%26+Lifelong+Learner;Building+Amazing+Digital+Experiences;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Full-Stack+%26+WordPress+Developer...;Problem+Solver+%26+Lifelong+Learner...;Building+Amazing+Digital+Experiences...;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
 </div>
 
 <div align="center">
