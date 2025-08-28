@@ -86,7 +86,7 @@ I'm a passionate **Full-Stack Developer** from the beautiful mountains of **Nepa
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bishalxrauniyar&show_icons=true&theme=radical&hide_border=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bishalxrauniyar&layout=compact&theme=radical&hide_border=true"/>
 </div>
-
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
 
 ## 🎯 Featured Projects
