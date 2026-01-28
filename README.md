@@ -1,153 +1,271 @@
-# Hi there, I'm Bishal Rauniyar! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40">
-
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Full-Stack+%26+WordPress+Developer...;Problem+Solver+%26+Lifelong+Learner...;Building+Amazing+Digital+Experiences...;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
+
+<!-- ═══════════════════════════════════════════════════════════════════════════════════ -->
+<!-- HERO SECTION -->
+<!-- ═══════════════════════════════════════════════════════════════════════════════════ -->
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Bishal%20Rauniyar&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full-Stack%20Developer%20%7C%20WordPress%20Specialist%20%7C%20Nepal%20🇳🇵&descAlignY=51&descSize=18"/>
+
 </div>
 
+<!-- ═══════════════════════════════════════════════════════════════════════════════════ -->
+<!-- ANIMATED TYPING INTRODUCTION -->
+<!-- ═══════════════════════════════════════════════════════════════════════════════════ -->
+
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=false&repeat=true&width=800&height=60&lines=Crafting+Digital+Experiences+from+the+Himalayas+%F0%9F%8F%94%EF%B8%8F;Building+Solutions+with+WordPress+%26+Modern+Web+Tech;Transforming+Coffee+into+Code+%E2%98%95%EF%B8%8F)](https://git.io/typing-svg)
+
 </div>
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+
+<!-- ═══════════════════════════════════════════════════════════════════════════════════ -->
+<!-- SOCIAL STATS BANNER -->
+<!-- ═══════════════════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
   
-[![From Nepal](https://img.shields.io/badge/From-Nepal%20🇳🇵-DC143C?style=for-the-badge)](https://en.wikipedia.org/wiki/Nepal)
+  <img src="https://komarev.com/ghpvc/?username=bishalxrauniyar&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="profile views" />
+  <img src="https://img.shields.io/github/followers/bishalxrauniyar?label=Followers&style=for-the-badge&color=0080ff&labelColor=1a1a1a" alt="followers" />
+  <img src="https://img.shields.io/badge/From-Nepal%20🇳🇵-DC143C?style=for-the-badge&labelColor=1a1a1a" alt="nepal" />
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+<br/>
 
-## 🚀 About Me
-
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
-
-I'm a passionate **Full-Stack Developer** from the beautiful mountains of **Nepal** 🏔️, crafting digital experiences that make a difference!
-
-- 🔭 Currently working on **WordPress Plugin Development** & **3D Web Applications**
-- 🌱 Learning **jQuery, AJAX** & **Advanced Database Optimization**
-- 🔍 Exploring **Information Security** & **Operational Research**
-- 💬 Ask me about **WordPress, PHP, JavaScript, MySQL**
-- 📫 Reach me: **bishal.rauniyar@gmail.com**
-- ⚡ Fun fact: **I debug with coffee and solve problems with code!** ☕
-
-<br clear="both"/>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
-
-## 🛠️ Tech Stack & Tools
+<!-- ═══════════════════════════════════════════════════════════════════════════════════ -->
+<!-- ABOUT ME SECTION WITH CARDS -->
+<!-- ═══════════════════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-### 💻 Programming Languages
-<p>
-  <img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
-  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-</p>
-
-### 🚀 Frameworks & Libraries
-<p>
-  <img alt="WordPress" src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white"/>
-  <img alt="jQuery" src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white"/>
-  <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
-  <img alt="Elementor" src="https://img.shields.io/badge/Elementor-9146FF?style=for-the-badge&logo=elementor&logoColor=white"/>
-</p>
-
-### 🗄️ Databases & Backend
-<p>
-  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img alt="phpMyAdmin" src="https://img.shields.io/badge/phpMyAdmin-6C78AF?style=for-the-badge&logo=phpmyadmin&logoColor=white"/>
-  <img alt="Apache" src="https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white"/>
-</p>
-
-### 🔧 Development Tools
-<p>
-  <img alt="Git" src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white"/>
-  <img alt="GitHub" src="https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white"/>
-  <img alt="VS Code" src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
-  <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
-</p>
-
-### 🎨 Design & Others
-<p>
-  <img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
-  <img alt="Canva" src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white"/>
-  <img alt="XAMPP" src="https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white"/>
-</p>
+## 🎯 About Me
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+<table align="center" width="100%">
+<tr>
+<td width="50%" valign="top">
+
+```javascript
+const bishal = {
+  location: "🏔️ Nepal",
+  role: "Full-Stack Developer",
+  
+  code: [
+    "PHP", "JavaScript",
+    "HTML5", "CSS3", "SQL"
+  ],
+  
+  expertise: {
+    cms: ["WordPress", "Plugin Dev"],
+    frontend: ["jQuery", "AJAX", "Bootstrap"],
+    backend: ["PHP", "MySQL"],
+    tools: ["Git", "VS Code", "phpMyAdmin"]
+  },
+  
+  currentFocus: [
+    "WordPress Plugin Architecture",
+    "3D Web Applications",
+    "Database Optimization",
+    "Information Security"
+  ],
+  
+  philosophy: "Debug with ☕, Solve with 💻"
+};
+```
+
+</td>
+<td width="50%" valign="top">
+
+<br/>
+
+🔭 **Current Projects**
+- Building advanced WordPress plugins
+- Exploring 3D web experiences
+- Mastering AJAX & jQuery
+
+📚 **Learning Journey**
+- Advanced Database Optimization
+- Information Security
+- Operational Research
+
+💡 **Interests**
+- Open Source Contribution
+- Clean Code Architecture
+- Performance Optimization
+
+📫 **Reach Me**
+- 📧 bishal.rauniyar@gmail.com
+- 💼 Open for collaborations!
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════════════════════════════ -->
+<!-- TECH STACK VISUAL GRID -->
+<!-- ═══════════════════════════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+## 🛠️ Tech Arsenal
+
+### Core Languages
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+### Frameworks & Libraries
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
+![WooCommerce](https://img.shields.io/badge/WooCommerce-96588A?style=for-the-badge&logo=woocommerce&logoColor=white)
+![Elementor](https://img.shields.io/badge/Elementor-9146FF?style=for-the-badge&logo=elementor&logoColor=white)
+![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![AJAX](https://img.shields.io/badge/AJAX-00758F?style=for-the-badge&logo=javascript&logoColor=white)
+
+### Development Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![phpMyAdmin](https://img.shields.io/badge/phpMyAdmin-6C78AF?style=for-the-badge&logo=phpmyadmin&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+### Design & Other
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Adobe Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
+
+</div>
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════════════════════════════ -->
+<!-- GITHUB STATISTICS -->
+<!-- ═══════════════════════════════════════════════════════════════════════════════════ -->
+
+<div align="center">
 
 ## 📊 GitHub Analytics
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bishalxrauniyar&show_icons=true&theme=radical&hide_border=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bishalxrauniyar&layout=compact&theme=radical&hide_border=true"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=bishalxrauniyar&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=bishalxrauniyar&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF" />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bishalxrauniyar&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9" />
+<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=bishalxrauniyar&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=C9D1D9" />
+
 </div>
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
+<br/>
 
-## 🎯 Featured Projects
+<!-- ═══════════════════════════════════════════════════════════════════════════════════ -->
+<!-- FEATURED PROJECTS SHOWCASE -->
+<!-- ═══════════════════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-<table>
+## 🌟 Featured Projects
+
+</div>
+
+<table align="center" width="100%">
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
+
+<div align="center">
 
 ### 📧 WP Email to Post Plugin
-**Fetches emails via IMAP/POP3 and converts them into WordPress posts**
-- Auto-import emails to posts
-- Advanced filtering options
-- Custom post type support
-- Attachment handling
 
+<img src="https://img.shields.io/badge/Status-Active-success?style=for-the-badge&logo=statuspage&logoColor=white" />
+
+</div>
+
+**Intelligent email-to-content automation for WordPress**
+
+🎯 **Key Features:**
+- ✉️ IMAP/POP3 email fetching
+- 🔄 Automated post creation
+- 🎨 Custom post type support
+- 📎 Smart attachment handling
+- 🔍 Advanced filtering system
+
+**Tech Stack:**
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white)
 ![IMAP](https://img.shields.io/badge/IMAP-FF6B6B?style=flat-square&logo=gmail&logoColor=white)
 
-</td>
-<td width="50%">
+<br/>
 
-### 🛒 Custom Car Theme
-**WooCommerce-based car listing & comparison theme**
-- Advanced search filters
-- Car comparison feature
-- Dynamic pricing system
-- Mobile-responsive design
+---
 
-![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white)
-![WooCommerce](https://img.shields.io/badge/WooCommerce-96588A?style=flat-square&logo=woocommerce&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-
-</td>
-</tr>
-<tr>
-<td width="50%">
+<br/>
 
 ### 📅 Booking Elementor Widget
-**AJAX-powered date picker with package selection**
-- Real-time availability
-- Package management
-- Custom booking forms
-- Payment integration ready
 
+<img src="https://img.shields.io/badge/Status-Active-success?style=for-the-badge&logo=statuspage&logoColor=white" />
+
+**AJAX-powered booking system with real-time updates**
+
+🎯 **Key Features:**
+- 📆 Dynamic date picker
+- 📦 Package management
+- ⚡ Real-time availability
+- 💳 Payment gateway ready
+- 📱 Fully responsive
+
+**Tech Stack:**
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Elementor](https://img.shields.io/badge/Elementor-9146FF?style=flat-square&logo=elementor&logoColor=white)
 ![AJAX](https://img.shields.io/badge/AJAX-4FC3F7?style=flat-square&logo=javascript&logoColor=white)
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🔔 WP Notification Bar Plugin
-**Customizable header/footer notification bar**
-- WP Customizer integration
-- Scheduling system
-- Multiple display options
-- Analytics tracking
+<div align="center">
 
+### 🛒 Custom Car Theme
+
+<img src="https://img.shields.io/badge/Status-Active-success?style=for-the-badge&logo=statuspage&logoColor=white" />
+
+</div>
+
+**Premium WooCommerce theme for automotive listings**
+
+🎯 **Key Features:**
+- 🚗 Advanced car search
+- ⚖️ Vehicle comparison tool
+- 💰 Dynamic pricing engine
+- 📊 Detailed specifications
+- 📱 Mobile-first design
+
+**Tech Stack:**
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white)
+![WooCommerce](https://img.shields.io/badge/WooCommerce-96588A?style=flat-square&logo=woocommerce&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+
+<br/>
+
+---
+
+<br/>
+
+### 🔔 WP Notification Bar
+
+<img src="https://img.shields.io/badge/Status-Active-success?style=for-the-badge&logo=statuspage&logoColor=white" />
+
+**Customizable notification system for WordPress**
+
+🎯 **Key Features:**
+- 🎨 WP Customizer integration
+- ⏰ Advanced scheduling
+- 📍 Multiple positions
+- 📈 Built-in analytics
+- 🎯 Targeting options
+
+**Tech Stack:**
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white)
@@ -156,86 +274,199 @@ I'm a passionate **Full-Stack Developer** from the beautiful mountains of **Nepa
 </tr>
 </table>
 
-</div>
+<br/>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
-
-
-
-## 🌟 What I'm Up To
+<!-- ═══════════════════════════════════════════════════════════════════════════════════ -->
+<!-- CONTRIBUTION GRAPH -->
+<!-- ═══════════════════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-```javascript
-const bishal = {
-    pronouns: "he" | "him",
-    location: "Nepal 🇳🇵",
-    code: ["PHP", "JavaScript", "HTML", "CSS"],
-    frameworks: ["WordPress", "jQuery", "Bootstrap"],
-    databases: ["MySQL", "phpMyAdmin"],
-    currentFocus: "WordPress Plugin Development & 3D Web Applications",
-    funFact: "I debug with coffee and solve problems with code!"
-};
+## 📈 Contribution Activity
 
-// Current Status
-console.log("🚀 Building amazing WordPress solutions");
-console.log("📚 Learning advanced JavaScript & database optimization");
-console.log("🔍 Exploring Information Security & Operational Research");
-console.log("☕ Powered by coffee and passion for coding!");
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bishalxrauniyar&theme=tokyonight)
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=bishalxrauniyar&theme=tokyonight" width="49%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bishalxrauniyar&theme=tokyonight" width="49%" />
+
+</div>
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════════════════════════════ -->
+<!-- CURRENT ACTIVITY -->
+<!-- ═══════════════════════════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+## 🎮 What I'm Currently Working On
+
+</div>
+
+```yaml
+current_status:
+  🔨 building: "WordPress Plugin Ecosystem"
+  📚 learning: "Advanced JavaScript Patterns & DB Optimization"
+  🔍 exploring: "Information Security & Operational Research"
+  ☕ powered_by: "Coffee + Passion for Coding"
+  
+ongoing_projects:
+  - name: "3D Web Application Framework"
+    tech: ["Three.js", "WebGL", "JavaScript"]
+    status: "In Development"
+    
+  - name: "WordPress Security Suite"
+    tech: ["PHP", "WordPress", "Security"]
+    status: "Planning Phase"
+    
+  - name: "E-Commerce Optimization Plugin"
+    tech: ["WooCommerce", "PHP", "MySQL"]
+    status: "Beta Testing"
+
+next_up:
+  - "Advanced AJAX Implementations"
+  - "Real-time Data Synchronization"
+  - "Machine Learning Integration in WordPress"
 ```
 
-</div>
+<br/>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
-
-
-
-## 🤝 Let's Connect
+<!-- ═══════════════════════════════════════════════════════════════════════════════════ -->
+<!-- TROPHIES -->
+<!-- ═══════════════════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-<a href="mailto:bishal.rauniyar@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-</a>
-<a href="https://linkedin.com/in/bishalxrauniyar">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-<a href="https://github.com/bishalxrauniyar">
-  <img src="https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>
-<a href="https://x.com/BishalXRauniyar">
-  <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/>
-</a>
+## 🏆 GitHub Trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=bishalxrauniyar&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════════════════════════════ -->
+<!-- SKILLS PROGRESS BARS -->
+<!-- ═══════════════════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-### 💼 Open for collaborations and interesting projects!
-### 📧 Drop me a line: bishal.rauniyar@gmail.com
+## 💪 Skill Levels
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+<table align="center" width="90%">
+<tr>
+<td width="50%">
+
+**Backend Development**
+![PHP](https://img.shields.io/badge/PHP-Expert-777BB4?style=flat&logo=php&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-Expert-21759B?style=flat&logo=wordpress&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-Advanced-4479A1?style=flat&logo=mysql&logoColor=white)
+
+**Frontend Development**
+![JavaScript](https://img.shields.io/badge/JavaScript-Advanced-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![jQuery](https://img.shields.io/badge/jQuery-Advanced-0769AD?style=flat&logo=jquery&logoColor=white)
+![HTML/CSS](https://img.shields.io/badge/HTML%2FCSS-Expert-E34F26?style=flat&logo=html5&logoColor=white)
+
+</td>
+<td width="50%">
+
+**Frameworks & Tools**
+![WooCommerce](https://img.shields.io/badge/WooCommerce-Advanced-96588A?style=flat&logo=woocommerce&logoColor=white)
+![Elementor](https://img.shields.io/badge/Elementor-Advanced-9146FF?style=flat&logo=elementor&logoColor=white)
+![Git](https://img.shields.io/badge/Git-Intermediate-F05032?style=flat&logo=git&logoColor=white)
+
+**Design**
+![UI/UX](https://img.shields.io/badge/UI%2FUX-Intermediate-FF6B6B?style=flat&logo=figma&logoColor=white)
+![Responsive](https://img.shields.io/badge/Responsive-Advanced-7952B3?style=flat&logo=bootstrap&logoColor=white)
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════════════════════════════ -->
+<!-- DEV QUOTE -->
+<!-- ═══════════════════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-## 💭 Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+## 💭 Dev Wisdom
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true)
 
 </div>
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════════════════════════════ -->
+<!-- CONNECT WITH ME -->
+<!-- ═══════════════════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=bishalxrauniyar&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-  
-  <h3>⭐️ From <a href="https://github.com/bishalxrauniyar">bishalxrauniyar</a></h3>
-  
-  <p><em>"Code is like humor — when you have to explain it, it's bad."</em> 😄</p>
+
+## 🤝 Let's Connect & Collaborate
+
+**Open for interesting projects, collaborations, and opportunities!**
+
+<br/>
+
+[![Email](https://img.shields.io/badge/Email-bishal.rauniyar%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bishal.rauniyar@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-bishalxrauniyar-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/bishalxrauniyar)
+
+<br/>
+
+### 💡 Interested in:
+🚀 WordPress Development | 🔧 Custom Plugin Solutions | 🎨 Web Application Development | 📊 Database Optimization | 🔒 Security Implementation
+
 </div>
 
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════════════════════════════ -->
+<!-- SUPPORT -->
+<!-- ═══════════════════════════════════════════════════════════════════════════════════ -->
+
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="400">
+
+## ☕ Support My Work
+
+If you find my projects helpful, consider buying me a coffee!
+
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-Support-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/bishalrauniyar)
+
 </div>
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════════════════════════════ -->
+<!-- SNAKE ANIMATION -->
+<!-- ═══════════════════════════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+![snake gif](https://raw.githubusercontent.com/bishalxrauniyar/bishalxrauniyar/output/github-contribution-grid-snake-dark.svg)
+
+</div>
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════════════════════════════ -->
+<!-- FOOTER -->
+<!-- ═══════════════════════════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+### 💻 _"Code is like humor — when you have to explain it, it's bad."_ 😄
+
+---
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
+
+**⭐️ From [bishalxrauniyar](https://github.com/bishalxrauniyar) | Made with ❤️ in Nepal 🇳🇵**
+
+<img src="https://komarev.com/ghpvc/?username=bishalxrauniyar&style=for-the-badge&color=00D9FF&labelColor=1a1a1a" />
+
+</div>
