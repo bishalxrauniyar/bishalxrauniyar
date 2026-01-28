@@ -25,8 +25,8 @@
 <div align="center">
   
   <img src="https://komarev.com/ghpvc/?username=bishalxrauniyar&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="profile views" />
-  <img src="https://img.shields.io/github/followers/bishalxrauniyar?label=Followers&style=for-the-badge&color=0080ff&labelColor=1a1a1a" alt="followers" />
-  <img src="https://img.shields.io/badge/From-Nepal%20🇳🇵-DC143C?style=for-the-badge&labelColor=1a1a1a" alt="nepal" />
+ 
+  <img src="https://img.shields.io/badge/From-Nepal%20🇳🇵-DC143C?style=for-the-badge&labelColor=blue" alt="nepal" />
 
 </div>
 
@@ -152,10 +152,8 @@ const bishal = {
 ## 📊 GitHub Analytics
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=bishalxrauniyar&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=bishalxrauniyar&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF" />
-
 <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bishalxrauniyar&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9" />
-<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=bishalxrauniyar&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=C9D1D9" />
+
 
 </div>
 
@@ -284,74 +282,71 @@ const bishal = {
 
 ## 📈 Contribution Activity
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bishalxrauniyar&theme=tokyonight)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=bishalxrauniyar&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=C9D1D9)
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=bishalxrauniyar&theme=tokyonight" width="49%" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bishalxrauniyar&theme=tokyonight" width="49%" />
+<br/>
+
+![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bishalxrauniyar&theme=tokyonight)
 
 </div>
 
 <br/>
 
 <!-- ═══════════════════════════════════════════════════════════════════════════════════ -->
-<!-- CURRENT ACTIVITY -->
+<!-- CURRENT FOCUS & ACTIVITIES -->
 <!-- ═══════════════════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-## 🎮 What I'm Currently Working On
+## 🎯 Current Focus
 
 </div>
 
-```yaml
-current_status:
-  🔨 building: "WordPress Plugin Ecosystem"
-  📚 learning: "Advanced JavaScript Patterns & DB Optimization"
-  🔍 exploring: "Information Security & Operational Research"
-  ☕ powered_by: "Coffee + Passion for Coding"
-  
-ongoing_projects:
-  - name: "3D Web Application Framework"
-    tech: ["Three.js", "WebGL", "JavaScript"]
-    status: "In Development"
-    
-  - name: "WordPress Security Suite"
-    tech: ["PHP", "WordPress", "Security"]
-    status: "Planning Phase"
-    
-  - name: "E-Commerce Optimization Plugin"
-    tech: ["WooCommerce", "PHP", "MySQL"]
-    status: "Beta Testing"
+<br/>
 
-next_up:
-  - "Advanced AJAX Implementations"
-  - "Real-time Data Synchronization"
-  - "Machine Learning Integration in WordPress"
+```yaml
+current_activities:
+  🔨 building:
+    - "WordPress Plugin Ecosystem & Architecture"
+    - "Advanced 3D Web Application Framework"
+    - "WooCommerce Optimization Suite"
+  
+  📚 learning:
+    - "Advanced JavaScript Patterns & Best Practices"
+    - "Database Optimization & Query Performance"
+    - "Information Security & Vulnerability Assessment"
+  
+  🔍 exploring:
+    - "Operational Research & Algorithm Optimization"
+    - "Real-time Data Synchronization Techniques"
+    - "Machine Learning Integration in WordPress"
+  
+  ☕ powered_by: "Coffee + Passion + Late Nights of Coding"
+
+recent_achievements:
+  - name: "Email to Post Automation Plugin"
+    status: "✅ Production Ready"
+    impact: "Saved 100+ hours of manual work"
+  
+  - name: "Custom Car Listing Theme"
+    status: "✅ Live & Active"
+    impact: "Enhanced UX for 10,000+ monthly visitors"
+  
+  - name: "Booking Widget System"
+    status: "🚀 In Beta Testing"
+    impact: "Streamlined booking process"
 ```
 
 <br/>
 
-<!-- ═══════════════════════════════════════════════════════════════════════════════════ -->
-<!-- TROPHIES -->
-<!-- ═══════════════════════════════════════════════════════════════════════════════════ -->
-
-<div align="center">
-
-## 🏆 GitHub Trophies
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=bishalxrauniyar&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
-<br/>
 
 <!-- ═══════════════════════════════════════════════════════════════════════════════════ -->
-<!-- SKILLS PROGRESS BARS -->
+<!-- SKILLS EXPERTISE LEVELS -->
 <!-- ═══════════════════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-## 💪 Skill Levels
+## 💪 Expertise Levels
 
 </div>
 
@@ -359,27 +354,27 @@ next_up:
 <tr>
 <td width="50%">
 
-**Backend Development**
-![PHP](https://img.shields.io/badge/PHP-Expert-777BB4?style=flat&logo=php&logoColor=white)
-![WordPress](https://img.shields.io/badge/WordPress-Expert-21759B?style=flat&logo=wordpress&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-Advanced-4479A1?style=flat&logo=mysql&logoColor=white)
+### Backend Development
+![PHP](https://img.shields.io/badge/PHP-Expert-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-Expert-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-Advanced-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-**Frontend Development**
-![JavaScript](https://img.shields.io/badge/JavaScript-Advanced-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![jQuery](https://img.shields.io/badge/jQuery-Advanced-0769AD?style=flat&logo=jquery&logoColor=white)
-![HTML/CSS](https://img.shields.io/badge/HTML%2FCSS-Expert-E34F26?style=flat&logo=html5&logoColor=white)
+### Frontend Development
+![JavaScript](https://img.shields.io/badge/JavaScript-Advanced-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![jQuery](https://img.shields.io/badge/jQuery-Advanced-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
+![HTML/CSS](https://img.shields.io/badge/HTML%2FCSS-Expert-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
 </td>
 <td width="50%">
 
-**Frameworks & Tools**
-![WooCommerce](https://img.shields.io/badge/WooCommerce-Advanced-96588A?style=flat&logo=woocommerce&logoColor=white)
-![Elementor](https://img.shields.io/badge/Elementor-Advanced-9146FF?style=flat&logo=elementor&logoColor=white)
-![Git](https://img.shields.io/badge/Git-Intermediate-F05032?style=flat&logo=git&logoColor=white)
+### Frameworks & Tools
+![WooCommerce](https://img.shields.io/badge/WooCommerce-Advanced-96588A?style=for-the-badge&logo=woocommerce&logoColor=white)
+![Elementor](https://img.shields.io/badge/Elementor-Advanced-9146FF?style=for-the-badge&logo=elementor&logoColor=white)
+![Git](https://img.shields.io/badge/Git-Proficient-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-**Design**
-![UI/UX](https://img.shields.io/badge/UI%2FUX-Intermediate-FF6B6B?style=flat&logo=figma&logoColor=white)
-![Responsive](https://img.shields.io/badge/Responsive-Advanced-7952B3?style=flat&logo=bootstrap&logoColor=white)
+### Design & UX
+![UI/UX](https://img.shields.io/badge/UI%2FUX-Intermediate-FF6B6B?style=for-the-badge&logo=figma&logoColor=white)
+![Responsive](https://img.shields.io/badge/Responsive_Design-Advanced-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 </td>
 </tr>
@@ -423,49 +418,36 @@ next_up:
 
 </div>
 
-<br/>
+
 
 <!-- ═══════════════════════════════════════════════════════════════════════════════════ -->
-<!-- SUPPORT -->
+<!-- CONTRIBUTION SNAKE ANIMATION -->
 <!-- ═══════════════════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-## ☕ Support My Work
-
-If you find my projects helpful, consider buying me a coffee!
-
-[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-Support-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/bishalrauniyar)
+![GitHub Snake Light](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+![GitHub Snake Dark](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 
 </div>
 
 <br/>
 
 <!-- ═══════════════════════════════════════════════════════════════════════════════════ -->
-<!-- SNAKE ANIMATION -->
+<!-- FOOTER QUOTE & SIGNATURE -->
 <!-- ═══════════════════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-![snake gif](https://raw.githubusercontent.com/bishalxrauniyar/bishalxrauniyar/output/github-contribution-grid-snake-dark.svg)
-
-</div>
-
-<br/>
-
-<!-- ═══════════════════════════════════════════════════════════════════════════════════ -->
-<!-- FOOTER -->
-<!-- ═══════════════════════════════════════════════════════════════════════════════════ -->
-
-<div align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer" />
 
 ### 💻 _"Code is like humor — when you have to explain it, it's bad."_ 😄
 
----
+<br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
+**⭐️ From [bishalxrauniyar](https://github.com/bishalxrauniyar) | Crafted with ❤️ from the Himalayas 🏔️**
 
-**⭐️ From [bishalxrauniyar](https://github.com/bishalxrauniyar) | Made with ❤️ in Nepal 🇳🇵**
+<br/>
 
 <img src="https://komarev.com/ghpvc/?username=bishalxrauniyar&style=for-the-badge&color=00D9FF&labelColor=1a1a1a" />
 
