@@ -329,11 +329,11 @@ recent_achievements:
     impact: "Saved 100+ hours of manual work"
   
   - name: "Custom Car Listing Theme"
-    status: "✅ Live & Active"
-    impact: "Enhanced UX for 10,000+ monthly visitors"
+    status: "✅ Beta Testing"
+    impact: "learning curve"
   
   - name: "Booking Widget System"
-    status: "🚀 In Beta Testing"
+    status: "✅ Live & Active"
     impact: "Streamlined booking process"
 ```
 
